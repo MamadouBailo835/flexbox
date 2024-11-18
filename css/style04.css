@@ -1,0 +1,46 @@
+.box1 {
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 6%;
+    text-align: left;
+    margin: 2%;
+
+}
+
+.box2 {
+    background-color:white;
+    padding: 0%;
+    text-align: center;
+    margin: 2%;
+    display: flex;
+    
+    
+}
+
+.box3 {
+    background-color: blue;
+    border: 2px solid black;
+    padding: 6%;
+    text-align: left;
+    margin: 2%;
+    
+}
+
+.cont1 {
+    display: flex;
+    border: 2px solid black;
+    padding: 6%;
+    margin-right: 20px;
+    width: 25%;
+     background-color: beige;
+    
+
+}
+
+.cont2 {
+    display: flex;
+    border: 2px solid black;
+    padding: 6%;
+    width: 70%;
+     background-color: aquamarine;
+}

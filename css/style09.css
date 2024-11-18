@@ -1,0 +1,138 @@
+.box1 {
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 2%;
+    text-align: end;
+    margin: 2%;
+
+}
+
+.box2 {
+    background-color: white;
+    padding: 0%;
+    text-align: center;
+    margin: 2%;
+    display: flex;
+
+}
+
+.box3 {
+    background-color: chartreuse;
+    border: 2px solid black;
+    padding: 2%;
+    text-align: left;
+    margin: 2%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.cont1 {
+    display: flex;
+    border: 2px solid black;
+    padding: 6%;
+    margin-right: 20px;
+    width: 25%;
+    background-color: beige;
+
+
+}
+
+.cont2 {
+    display: flex;
+    border: 2px solid black;
+    padding: 6%;
+    width: 70%;
+    background-color: aquamarine;
+}
+
+.sec1 {
+    border: 2px solid black;
+    margin-right: 30px;
+    margin-left: 20px;
+    padding: 1%;
+    width: 5%;
+    background-color: brown;
+}
+
+.sec2 {
+    border: 2px solid black;
+    margin-right: 30px;
+    padding: 1%;
+    width: 5%;
+    background-color: brown;
+}
+
+.sec3 {
+    border: 2px solid black;
+    margin-right: 30px;
+    padding: 1%;
+    width: 5%;
+    background-color: brown;
+    justify-content: end;
+}
+
+.sec4 {
+    border: 2px solid black;
+    margin-right: 30px;
+    padding: 1%;
+    width: 5%;
+    background-color: brown;
+    justify-content: end;
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.box {
+    display: flex;
+    width: 20px;
+    background-color: aqua;
+}
+
+.co1 {
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    
+    
+}
+
+.co2 {
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    background-color: aquamarine;
+    text-align: center;
+    align-content: center;
+    color: white;
+    
+    
+    
+}
+
+.co3 {
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    background-color: aquamarine;
+    text-align: center;
+    align-content: center;
+   color: white;
+    
+    
+}
+
+.co4 {
+    border: 2px solid black;
+    width: 200px;
+    height:150px;
+    background-color: aquamarine;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
